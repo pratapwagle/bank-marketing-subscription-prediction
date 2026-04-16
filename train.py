@@ -1,5 +1,5 @@
 """
-Main Training Script for ML Classification Models.
+Main Training Script for bank-marketing-subscription-prediction.
 
 This script orchestrates the entire training pipeline:
 1. Load and prepare data using data_pipeline.py

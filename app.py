@@ -1,8 +1,8 @@
 """
 Bank Marketing Deposit Prediction - Streamlit Application
 
-A web application for evaluating ML classification models on bank marketing
-deposit prediction. Features a sidebar-driven workflow with idle state.
+A web application for evaluating models in the
+bank-marketing-subscription-prediction project. Features a sidebar-driven workflow with idle state.
 """
 
 import streamlit as st

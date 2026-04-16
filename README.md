@@ -81,7 +81,7 @@ XGBoost achieved the highest overall performance, indicating its effectiveness i
 ##  Project Structure
 
 ```
-ML_Classification_Models/
+bank-marketing-subscription-prediction/
 ├── app.py                      # Streamlit web application
 ├── train.py                    # Main training script
 ├── data_pipeline.py            # Data processing and feature engineering
@@ -205,8 +205,8 @@ This file is available for download and can either be directly uploaded or impor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/ML_Classification_Models.git
-cd ML_Classification_Models
+git clone https://github.com/username/bank-marketing-subscription-prediction.git
+cd bank-marketing-subscription-prediction
 ```
 
 2. Install dependencies:
@@ -241,6 +241,8 @@ streamlit run app.py
 ```
 
 The app will open in your browser at `http://localhost:8501`
+
+Live app URL: [https://pratapwagle-bank-marketing-subscription-prediction.streamlit.app/](https://pratapwagle-bank-marketing-subscription-prediction.streamlit.app/)
 
 ##  Streamlit Cloud Deployment
 
